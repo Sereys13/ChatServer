@@ -11,3 +11,10 @@
 <img src="struct.png">
 <p><h1 align="center">JSON файлы</h1></p>
 <hr></hr>
+<p>Для работы c JSON файлами используется <a href="https://github.com/nlohmann/json">JSON for Modern C++</a>(установлен с помощью <a href="https://github.com/microsoft/vcpkg">vcpkg</a>).</p>
+<p><h1 align="center">WebSockets</h1></p>
+<hr></hr>
+<p>Для организации работы с WebSockets используется <a href="https://github.com/uNetworking/uWebSockets">uWebSockets</a>(установлен с помощью <a href="https://github.com/microsoft/vcpkg">vcpkg</a>).</p>
+<h1 align="center">Установка библиотек с помощью <a href="https://github.com/microsoft/vcpkg">vcpkg</a></h1>
+<hr></hr>
+<p><a href ="https://blog.jetbrains.com/clion/2023/01/support-for-vcpkg-in-clion/">Данный пример реализован с помощью IDE JetBrains version 2023.1 и выше</a></p>
